@@ -1,10 +1,10 @@
 {
-  "name": "sync",
+  "name": "",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "private": true,
   "license": "MIT",
-  "author": "ex_zouzj1 <zhijun1.zou@partner.midea.com>",
+  "author": "chowchikwan <953748496@qq.com>",
   "repository": {
     "type": "",
     "url": ""
