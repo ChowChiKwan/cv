@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.0.0",
-    "axios": "0.18.0",
+    "axios": "0.19.2",
     "element-theme-chalk": "2.4.7",
     "element-ui": "2.4.11",
     "vue": "2.5.17",
@@ -103,9 +103,9 @@
     "vue-style-loader": "4.1.2",
     "vue-template-compiler": "2.5.17",
     "webpack": "4.19.1",
-    "webpack-bundle-analyzer": "3.0.2",
+    "webpack-bundle-analyzer": "3.6.1",
     "webpack-cli": "3.1.0",
-    "webpack-dev-server": "3.1.8",
+    "webpack-dev-server": "3.10.3",
     "webpack-merge": "4.1.4",
     "webpack-sftp-client": "1.2.1"
   },
