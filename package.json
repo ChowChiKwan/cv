@@ -82,7 +82,7 @@
     "mocha": "5.2.0",
     "nightwatch": "1.0.10",
     "nightwatch-helpers": "1.2.0",
-    "node-sass": "4.9.3",
+    "node-sass": "4.14.1",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "os": "0.1.1",
     "phantomjs-prebuilt": "2.1.16",
